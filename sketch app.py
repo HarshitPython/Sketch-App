@@ -25,7 +25,7 @@ def move_backward():
 def clear():
     tim.reset()
     
-
+#listen will react on pressing the key and do the function given below.
 screen.listen()
 screen.onkeypress(fun=move_forward,key="w")
 screen.onkeypress(fun=turn_right,key="d")
