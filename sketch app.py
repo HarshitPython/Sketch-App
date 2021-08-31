@@ -5,6 +5,7 @@ tim = Turtle()
 
 screen = Screen()
 
+#move_forward will move the turtle forward by some steps in this case by 10 steps. 
 def move_forward():
     tim.forward(10)
 
