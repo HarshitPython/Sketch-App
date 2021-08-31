@@ -9,7 +9,7 @@ screen = Screen()
 def move_forward():
     tim.forward(10)
 
-#move_forward will move the turtle forward by some steps in this case by 10 steps. 
+#move_right will move the turtle in right direction by some angle in this case by 10 degree. 
 def turn_right():
     tim.right(10)
 
