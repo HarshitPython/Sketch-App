@@ -13,7 +13,7 @@ def move_forward():
 def turn_right():
     tim.right(10)
 
-#move_forward will move the turtle forward by some steps in this case by 10 steps. 
+#move_left will move the turtle in left direction by some angle in this case by 10 degree. 
 def turn_left():
     tim.left(10)
 
