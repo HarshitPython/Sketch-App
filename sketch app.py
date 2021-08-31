@@ -27,6 +27,7 @@ def clear():
     
 #listen will react on pressing the key and do the function given below.
 screen.listen()
+
 screen.onkeypress(fun=move_forward,key="w")
 screen.onkeypress(fun=turn_right,key="d")
 screen.onkeypress(fun=turn_left,key="a")
