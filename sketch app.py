@@ -21,7 +21,7 @@ def turn_left():
 def move_backward():
     tim.backward(10)
 
-#move_forward will move the turtle forward by some steps in this case by 10 steps. 
+# 
 def clear():
     tim.reset()
     
