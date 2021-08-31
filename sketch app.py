@@ -21,7 +21,7 @@ def turn_left():
 def move_backward():
     tim.backward(10)
 
-# 
+# clear will clear the screen.
 def clear():
     tim.reset()
     
